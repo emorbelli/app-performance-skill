@@ -1,3 +1,5 @@
+[English](README.en.md) | **Português**
+
 # app-performance — Skill para Claude
 
 Skill que audita e corrige a performance de apps criados com Claude (artifacts, dashboards, apps React/Next.js + Supabase, integrações com IA).
